@@ -2,7 +2,7 @@
 # wu_weather.py - Prints the weather for a location fronm the commandline
 
 import json
-import requests
+import requests # Fetching Data over HTTPS
 import sys
 
 # Compute location from command line arguments
